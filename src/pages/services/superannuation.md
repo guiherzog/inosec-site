@@ -1,6 +1,7 @@
 ---
 path: '/services/superannuation'
-title: "Superannuation"
+title: "Trabalhamos somente com
+pessoas jurídicas"
 date: 2018-11-28T15:14:54+10:00
 image: "/services/default.png"
 featured: true

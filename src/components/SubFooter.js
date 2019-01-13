@@ -9,7 +9,7 @@ const SubFooter = props => (
           <div className="sub-footer">
             <ul>
               <li>
-                <strong>Phone: </strong>
+                <strong>Telefone: </strong>
                 {props.data.site.siteMetadata.contact.phone}
               </li>
               <li>
@@ -22,7 +22,7 @@ const SubFooter = props => (
             </ul>
             <ul>
               <li>
-                <a href="https://www.zerostatic.io">www.zerostatic.io</a>
+                <a href="https://www.inovasecuritizadora.com">www.inovasecuritizadora.com</a>
               </li>
             </ul>
           </div>

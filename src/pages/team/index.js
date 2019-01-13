@@ -12,10 +12,13 @@ const Team = (props) => {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <h1>Meet The Team</h1>
+              <h1>Quem Somos</h1>
               <p>
-                Our team of qualified accountants and financial consultants can help your business
-                at any stage of it’s growth.
+              A operação de factoring é um mecanismo
+de fomento mercantil que permite a empresa fomentada vender seus recebíveis,
+gerados por suas vendas à prazo, a uma
+empresa de factoring. O resultado disso é
+o pronto recebimento desses créditos futuros, possibilitando liquidez financeira imediata para micro e pequenas empresas
               </p>
             </div>
           </div>

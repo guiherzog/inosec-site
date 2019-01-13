@@ -5,8 +5,8 @@ class NotFoundPage extends React.Component {
   render() {
     return (
       <Layout>
-        <h1>Not Found</h1>
-        <p>You just hit a page that doesn&#39;t exist...</p>
+        <h1>Página Não Encontrada (404)</h1>
+        <p>Ooops, essa página não existe!</p>
       </Layout>
     );
   }

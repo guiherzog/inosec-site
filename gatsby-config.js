@@ -1,26 +1,26 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Serif',
-    description: 'my theme',
+    title: 'Inova Securitizadora',
+    description: 'Adiantamos seus recebíveis sem burocracia.',
     contact: {
-      phone: 'XXX XXX XXX',
-      email: 'zerostaticthemes@gmail.com',
+      phone: '(21) 2221-7870',
+      email: 'contato@inovasecuritizadora.com',
     },
     menuLinks: [
       {
-        name: 'Services',
+        name: 'Como Funciona',
         link: '/services',
       },
       {
-        name: 'Team',
+        name: 'Quem Somos',
         link: '/team',
       },
       {
-        name: 'Testimonials',
+        name: 'Depoimentos',
         link: '/testimonials',
       },
       {
-        name: 'Contact',
+        name: 'Contato',
         link: '/contact',
       },
     ],

@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-serif-theme",
-  "version": "1.0.0",
-  "author": "Robert Austin <rob@jugglerdigital.com>",
+  "name": "inova-securitizadora-website",
+  "version": "0.1.0",
+  "author": "Guilherme Herzog <guilhermeherzog@gmail.com>",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
